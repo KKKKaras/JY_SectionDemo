@@ -5,6 +5,13 @@
 //  Created by invoker on 15/3/24.
 //  Copyright (c) 2015年 invoker. All rights reserved.
 //
+/**
+ *  将原数据以及存放索引的空数组 传参  返回整理后的数组
+ *  已用分类封装，直接引入头文件 使用方法即可
+ *
+ * https://github.com/KKKKaras/JY_SectionDemo
+ */
+
 
 #import "JYTableViewController.h"
 #import "ChineseString.h"
@@ -32,6 +39,8 @@
     
  
 }
+
+
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
